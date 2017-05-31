@@ -1,6 +1,12 @@
 Athenaeum -- A Toronto Public Library & Goodreads.com Interface
 ===============================================================
 
+#Personal addendum
+
+I've copied this project to try to modify it to work with my local public library. Time will tell if I succeed.
+
+#Original documentation
+
 I've a heavy user of the [Toronto Public Library](http://tpl.ca/) and recently started using [Goodreads.com](http://goodreads.com/), so I decided to join them together.
 For now I just automatically take my checked out items and add them to some shelves on goodreads.
 
